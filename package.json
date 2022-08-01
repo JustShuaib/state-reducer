@@ -1,5 +1,5 @@
 {
-  "name": "state-management-using-reducer",
+  "name": "state-reducer",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
